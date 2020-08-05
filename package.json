@@ -16,10 +16,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+<<<<<<< HEAD
   },
   "description": "Este repositorio contiene todo el contenido del curso a medida que construimos una app para ver recetas con la API de MealDB.",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  }
+>>>>>>> ab59a80c1a1a3e5272200779e2f08311290b973b
 }
